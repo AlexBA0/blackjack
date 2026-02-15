@@ -1,0 +1,1 @@
+Just a fun little programme I wrote while bored. Run main.py to play blackjack against the dealer. Have fun :)
